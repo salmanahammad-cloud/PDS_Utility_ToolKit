@@ -1,5 +1,5 @@
 {
-  "version": "1.4",
-  "mandatory_after": "2026-08-31",
-  "download_url": "https://github.com/salmanahammad-cloud/PDS_Utility_ToolKit/releases/download/v1.4/PDS-UtilityToolkit_v1p4.exe"
+  "latest_version": "1.3",
+  "valid_until": "2026-08-31",
+  "download_url": "https://github.com/salmanahammad-cloud/PDS_Utility_ToolKit/releases/download/v1.3/PDS-UtilityToolkit_v1p3.exe"
 }
